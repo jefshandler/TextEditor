@@ -1,0 +1,15 @@
+E:\ProjetosC#\balta\mod1\TextEditor\bin\Debug\net7.0\TextEditor.exe
+E:\ProjetosC#\balta\mod1\TextEditor\bin\Debug\net7.0\TextEditor.deps.json
+E:\ProjetosC#\balta\mod1\TextEditor\bin\Debug\net7.0\TextEditor.runtimeconfig.json
+E:\ProjetosC#\balta\mod1\TextEditor\bin\Debug\net7.0\TextEditor.dll
+E:\ProjetosC#\balta\mod1\TextEditor\bin\Debug\net7.0\TextEditor.pdb
+E:\ProjetosC#\balta\mod1\TextEditor\obj\Debug\net7.0\TextEditor.csproj.AssemblyReference.cache
+E:\ProjetosC#\balta\mod1\TextEditor\obj\Debug\net7.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjetosC#\balta\mod1\TextEditor\obj\Debug\net7.0\TextEditor.AssemblyInfoInputs.cache
+E:\ProjetosC#\balta\mod1\TextEditor\obj\Debug\net7.0\TextEditor.AssemblyInfo.cs
+E:\ProjetosC#\balta\mod1\TextEditor\obj\Debug\net7.0\TextEditor.csproj.CoreCompileInputs.cache
+E:\ProjetosC#\balta\mod1\TextEditor\obj\Debug\net7.0\TextEditor.dll
+E:\ProjetosC#\balta\mod1\TextEditor\obj\Debug\net7.0\refint\TextEditor.dll
+E:\ProjetosC#\balta\mod1\TextEditor\obj\Debug\net7.0\TextEditor.pdb
+E:\ProjetosC#\balta\mod1\TextEditor\obj\Debug\net7.0\TextEditor.genruntimeconfig.cache
+E:\ProjetosC#\balta\mod1\TextEditor\obj\Debug\net7.0\ref\TextEditor.dll
